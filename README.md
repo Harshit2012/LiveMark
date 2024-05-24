@@ -1,6 +1,6 @@
 # LiveMark
 
-An online LiveMark with live preview, syntax highlighting, and export options to HTML or PDF. The website is responsive and developer-friendly, using Bootstrap for styling and layout.
+An online LiveMark with live preview, syntax highlighting, and export options to HTML or PDF..
 
 ## Features
 
