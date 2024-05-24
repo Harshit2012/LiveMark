@@ -8,7 +8,6 @@ An online LiveMark with live preview, syntax highlighting, and export options to
 - **Syntax Highlighting**: Highlight code blocks within your Markdown.
 - **Export Options**: Export your Markdown to HTML or PDF.
 - **Responsive Design**: Mobile-friendly layout using Bootstrap.
-- **Developer Friendly**: Clean, modern interface with black color scheme and animations.
 
 ## Usage
 
