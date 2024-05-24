@@ -1,6 +1,10 @@
 # LiveMark
+An online LiveMark with live preview, syntax highlighting, and export options to HTML or PDF.
 
-An online LiveMark with live preview, syntax highlighting, and export options to HTML or PDF..
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Harshit2012/LiveMark?tab=MIT-1-ov-file#readme)
+![GitHub Release](https://img.shields.io/github/v/release/harshit2012/LiveMark)
+![Forks](https://img.shields.io/github/forks/harshit2012/LiveMark)
+![Stars](https://img.shields.io/github/stars/harshit2012/LiveMark)
 
 ## Features
 
