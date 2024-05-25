@@ -3,6 +3,26 @@ body {
     font-family: Arial, sans-serif;
 }
 
+#logo {
+    height: 100px;
+    width: 100px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    position: relative;
+    animation: moveLogo 6s infinite alternate ease-in-out;
+}
+
+@keyframes moveLogo {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(950px);
+    }
+}
+
 h2 {
     font-size: 24px;
     margin-bottom: 15px;
