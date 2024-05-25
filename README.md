@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.jpg" height="200" width="200">
+</p>
+
 # LiveMark
 An online LiveMark with live preview, syntax highlighting, and export options to HTML or PDF.
 
