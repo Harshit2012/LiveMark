@@ -34,9 +34,7 @@ An online LiveMark with live preview, syntax highlighting, and export options to
 - **jsPDF**: Export content to PDF.
 
 ## Contribution
-
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
 
 ## License
-
 This repository is licensed under [MIT License](https://github.com/Harshit2012/LiveMark#MIT-1-ov-file)
