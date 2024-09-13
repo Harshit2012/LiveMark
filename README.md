@@ -29,7 +29,7 @@ An online LiveMark with live preview, syntax highlighting, and export options to
 
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling and layout.
-- **JavaScript**: Interactivity and functionality.
+- **JavaScript**: To function the website.
 - **Bootstrap**: Responsive design framework.
 - **Marked.js**: Markdown to HTML converter.
 - **Highlight.js**: Syntax highlighting for code blocks.
