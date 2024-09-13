@@ -12,6 +12,23 @@ document.addEventListener('DOMContentLoaded', () => {
         markdownPreview.innerHTML = htmlContent;
     }
 
+    document.getElementById("selectMarkdown").addEventListener("click", function () {
+        document.getElementById("fileInput").click();
+    });
+
+    document.getElementById("fileInput").addEventListener("change", function (event) {
+        const file = event.target.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                const content = e.target.result;
+                document.getElementById("markdown-input").value = content;
+                updatePreview(content);
+            };
+            reader.readAsText(file);
+        }
+    });
+
     markdownInput.addEventListener('input', updatePreview);
 
     exportHtmlButton.addEventListener('click', () => {
@@ -33,5 +50,6 @@ document.addEventListener('DOMContentLoaded', () => {
         doc.text(markdownPreview.innerText, 10, 10);
         doc.save('document.pdf');
     });
+
     updatePreview();
 });
