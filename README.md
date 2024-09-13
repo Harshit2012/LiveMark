@@ -15,13 +15,15 @@ An online LiveMark with live preview, syntax highlighting, and export options to
 - **Live Preview**: See the rendered HTML of your Markdown in real-time.
 - **Syntax Highlighting**: Highlight code blocks within your Markdown.
 - **Export Options**: Export your Markdown to HTML or PDF.
+- **Import Markdown**: Import Markdown using Select Markdown file button.
 - **Responsive Design**: Mobile-friendly layout using Bootstrap.
 
 ## Usage
 
 1. **Write Markdown**: Enter your Markdown text in the textarea on the left.
 2. **Live Preview**: See the HTML preview update in real-time on the right.
-3. **Export**: Click the "Export to HTML" or "Export to PDF" buttons to save your Markdown.
+3. **Import**: Import the markdown file using Select Markdown file button.
+4. **Export**: Click the "Export to HTML" or "Export to PDF" buttons to save your Markdown.
 
 ## Technologies Used
 
